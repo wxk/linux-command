@@ -436,7 +436,7 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/denymz" title="Deny"><img src="https://avatars.githubusercontent.com/u/23657601?v=4" width="42;" alt="Deny"/></a>
 <a href="https://github.com/daydaygo" title="dayday"><img src="https://avatars.githubusercontent.com/u/3986303?v=4" width="42;" alt="dayday"/></a>
 <a href="https://github.com/cxalc" title="cxalc"><img src="https://avatars.githubusercontent.com/u/79086256?v=4" width="42;" alt="cxalc"/></a>
-<a href="https://github.com/HDsky" title="黑&蛋"><img src="https://avatars.githubusercontent.com/u/17249963?v=4" width="42;" alt="黑&蛋"/></a>
+<a href="https://github.com/HDsky" title="Yidan Wang"><img src="https://avatars.githubusercontent.com/u/17249963?v=4" width="42;" alt="Yidan Wang"/></a>
 <a href="https://github.com/catAndZ" title="Panthea Johnson"><img src="https://avatars.githubusercontent.com/u/101485931?v=4" width="42;" alt="Panthea Johnson"/></a>
 <a href="https://github.com/fmalee" title="远方"><img src="https://avatars.githubusercontent.com/u/3209058?v=4" width="42;" alt="远方"/></a>
 <a href="https://github.com/xminjie" title="谢民皆"><img src="https://avatars.githubusercontent.com/u/25931342?v=4" width="42;" alt="谢民皆"/></a>
